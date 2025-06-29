@@ -11,6 +11,7 @@ export const metadata = {
   description: "Take control of your finances with Buck-It - the smart way to budget, track expenses, and save money",
   keywords: "personal finance, budgeting, expense tracking, savings, money management, Buck-It",
   authors: [{ name: "Buck-It Team" }],
+  viewport: "width=device-width, initial-scale=1",
   icons: {
     icon: [
       { url: '/favicon.png', sizes: '32x32', type: 'image/png' },

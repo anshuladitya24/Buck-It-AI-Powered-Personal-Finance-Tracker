@@ -10,6 +10,7 @@ const HeroSection = () => {
 
   useEffect(() => {
     const imageElement = imageRef.current;
+    if (!imageElement) return;
 
     const handleScroll = () => {
       const scrollPosition = window.scrollY;
@@ -22,7 +23,8 @@ const HeroSection = () => {
       }
     };
 
-    window.addEventListener("scroll", handleScroll);
+    // Use passive listeners for better mobile performance
+    window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
