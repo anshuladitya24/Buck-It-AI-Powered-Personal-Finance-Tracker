@@ -5,7 +5,7 @@ A modern, AI-powered finance platform built with Next.js, Supabase, Tailwind, Pr
 ![Buck-It Logo](public/logo.png)
 
 ## Live Demo
-[https://your-buckit-demo-link.com](https://your-buckit-demo-link.com)
+[Website Link](https://buck-it-ai-powered-personal-finance.vercel.app/)
 
 ---
 
