@@ -33,7 +33,7 @@ const HeroSection = () => {
           Smart Money Management <br /> Made Simple
         </h1>
         <p className="text-xl text-gray-700 mb-8 max-w-2xl mx-auto leading-relaxed">
-          Take control of your finances with Buck-It's intelligent budgeting, 
+          Take control of your finances with Buck-It&apos;s intelligent budgeting, 
           expense tracking, and savings goals. Your money, your rules, our smart tools.
         </p>
         <div className="flex justify-center space-x-4">

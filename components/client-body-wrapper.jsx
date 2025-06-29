@@ -2,8 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-export default function ClientBodyWrapper({ children, className }) {
-  const [isClient, setIsClient] = useState(false);
+export default function ClientBodyWrapper({ children }) {
 
   useEffect(() => {
     // This only runs on the client side
