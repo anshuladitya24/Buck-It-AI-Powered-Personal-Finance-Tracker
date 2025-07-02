@@ -9,6 +9,7 @@ import {
   testimonialsData,
 } from "@/data/landing";
 import HeroSection from "@/components/hero";
+import TestimonialAvatar from "@/components/testimonial-avatar";
 import Link from "next/link";
 
 const LandingPage = () => {
@@ -82,12 +83,10 @@ const LandingPage = () => {
               <Card key={index} className="p-6 buck-it-card-soft">
                 <CardContent className="pt-4">
                   <div className="flex items-center mb-4">
-                    <Image
+                    <TestimonialAvatar
                       src={testimonial.image}
                       alt={testimonial.name}
-                      width={40}
-                      height={40}
-                      className="rounded-full"
+                      initials={testimonial.initials}
                     />
                     <div className="ml-4">
                       <div className="font-semibold">{testimonial.name}</div>

@@ -10,7 +10,7 @@ A modern, AI-powered finance platform built with Next.js, Supabase, Tailwind, Pr
 ---
 
 ## Features
-- 💡 **AI-powered insights** for smarter budgeting and spending
+- 💡 **AI-powered insights** for smarter budgeting and spending and AI-powered 
 - 📊 Beautiful dashboard with cards, pie charts, and transaction lists
 - 🔒 Secure authentication with Clerk
 - 🏦 Multi-account support with currency selection (₹, $, €, etc.)
@@ -20,7 +20,7 @@ A modern, AI-powered finance platform built with Next.js, Supabase, Tailwind, Pr
 
 ---
 
-## Getting Started
+## Run Locally:
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/yourusername/buck-it-finance.git
@@ -30,7 +30,7 @@ A modern, AI-powered finance platform built with Next.js, Supabase, Tailwind, Pr
    ```bash
    npm install
    ```
-3. **Create a `.env` file:**
+3. **Create a `.env` file and paste your API keys:**
    ```env
    DATABASE_URL=
    DIRECT_URL=
@@ -57,7 +57,7 @@ A modern, AI-powered finance platform built with Next.js, Supabase, Tailwind, Pr
 ---
 
 ## Screenshots
-![Dashboard Screenshot](public/dashboard-screenshot.png)
+![Dashboard Screenshot](public/screenshots/dashboard-screenshot.png)
 
 ---
 

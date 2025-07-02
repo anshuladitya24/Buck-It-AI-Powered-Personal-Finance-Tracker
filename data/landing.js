@@ -90,21 +90,24 @@ export const testimonialsData = [
   {
     name: "Sarah Johnson",
     role: "Small Business Owner",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    image: "https://randomuser.me/api/portraits/women/1.jpg",
+    initials: "SJ",
     quote:
       "Buck-It has revolutionized how I manage my business finances. The smart budgeting tools helped me save 30% more this year!",
   },
   {
     name: "Michael Chen",
     role: "Freelancer",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    image: "https://randomuser.me/api/portraits/men/2.jpg",
+    initials: "MC",
     quote:
       "The automated expense tracking in Buck-It saves me hours each month. Now I can focus on my work instead of manual bookkeeping.",
   },
   {
     name: "Emily Rodriguez",
     role: "Financial Advisor",
-    image: "https://randomuser.me/api/portraits/women/74.jpg",
+    image: "https://randomuser.me/api/portraits/women/3.jpg",
+    initials: "ER",
     quote:
       "I recommend Buck-It to all my clients. The intuitive interface and powerful analytics make personal finance management effortless.",
   },
