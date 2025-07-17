@@ -13,7 +13,6 @@ A modern, AI-powered finance platform built with Next.js, Supabase, Tailwind, Pr
 - 💡 **AI-powered insights** for smarter budgeting and spending and AI-powered 
 - 📊 Beautiful dashboard with cards, pie charts, and transaction lists
 - 🔒 Secure authentication with Clerk
-- 🏦 Multi-account support with currency selection (₹, $, €, etc.)
 - 🎨 Blue-Green gradient theme for a fresh, trustworthy look
 - 🐷 Custom Buck-It logo and branding
 - ⚡ Fast, modern UI with smooth animations and responsive design
