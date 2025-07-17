@@ -111,7 +111,7 @@ const FinancialChatBot = () => {
         <Button
           onClick={() => setIsOpen(true)}
           size="lg"
-          className="rounded-full h-14 w-14 bg-gradient-to-r from-blue-500 to-teal-500 hover:from-blue-600 hover:to-teal-600 shadow-lg hover:shadow-xl transition-all duration-200 animate-pulse"
+          className="rounded-full h-14 w-14 bg-gradient-to-r from-blue-500 to-teal-500 hover:from-blue-600 hover:to-teal-600 shadow-lg hover:shadow-xl transition-all duration-200"
         >
           <MessageCircle className="h-6 w-6" />
         </Button>
