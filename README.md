@@ -10,7 +10,7 @@ A modern, AI-powered finance platform built with Next.js, Supabase, Tailwind, Pr
 ---
 
 ## Features
-- 💡 **AI-powered insights** for smarter budgeting and spending and AI-powered 
+- 💡 **AI-powered financial advisor chatbot** and **AI-powered automatic recipt scanner** for smarter budgeting and spending 
 - 📊 Beautiful dashboard with cards, pie charts, and transaction lists
 - 🔒 Secure authentication with Clerk
 - 🎨 Blue-Green gradient theme for a fresh, trustworthy look
